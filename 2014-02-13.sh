@@ -74,6 +74,17 @@ for new weapons, corporations eager for new revenue and owners of capital
   THIS IS AMAZING OKAY?! DEAL THE FUCK WITH IT. DON'T TELL ME MARIA ABRAMOVIC
   CONTRIBUTED MORE TO SOCIETY THAN DENNIS RITCHIE.  
 
+  FSF is the only software that doesn't try and trick you as to its complexity. 
+  Proprietary software stands against humanity.
+  Only difference is that proprietary software is something you can't read: Give
+  example, compare binary and script languages, whom are explicit about their
+  intention.
+
+  We all seek for inclusion, input and understanding.
+  Prop software limits the free expresion of people.
+  Proprietary API's seek are the new proprietary software.
+
+
 -- tools
 
 Plaintext.
