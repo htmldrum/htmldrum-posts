@@ -1,0 +1,22 @@
+#!/bin/bash - 
+#===============================================================================
+#
+#          FILE: tpost
+# 
+#         USAGE: ./tpost
+# 
+#   DESCRIPTION: Edit today's post
+# 
+#       OPTIONS: ---
+#  REQUIREMENTS: ---
+#          BUGS: ---
+#         NOTES: ---
+#        AUTHOR: JAMES MELDRUM ( james@htmldrum ), 
+#  ORGANIZATION: HTMLDRUM
+#       CREATED: 02/13/2014 07:23
+#      REVISION:  ---
+#===============================================================================
+
+set -o nounset                              # Treat unset variables as an error
+
+$EDITOR "`date +%F`.md"
